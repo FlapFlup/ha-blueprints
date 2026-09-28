@@ -1,4 +1,6 @@
-# Home Assistant Blueprints by simon42
+# Home Assistant Blueprints
+
+# Original written by TheRealSimon42
 
 A collection of Home Assistant automation blueprints.
 
