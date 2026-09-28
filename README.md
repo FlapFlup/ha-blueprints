@@ -27,7 +27,7 @@ Mindestversion: Home Assistant 2024.10.
 Funktionsweise (Sichtfeld-Geometrie, manuelle Eingriffe, Prioritäten), bekannte
 Grenzen und FAQ.
 
-[![Import Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/TheRealSimon42/ha-blueprints/blob/main/automations/cover_automation_v2.yaml)
+[![Import Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/FlapFlup/ha-blueprints/blob/main/automations/cover_automation_v2.yaml)
 
 > Hinweis: Die frühere Version (`cover_automation.yaml`, Zuordnung mehrerer Rollläden
 > über zwei parallele Listen) wurde entfernt. Bereits importierte Kopien laufen lokal
@@ -39,7 +39,7 @@ Grenzen und FAQ.
 
 Synchronisiert die Uhrzeit eines `input_datetime`-Helfers (mit Datum+Uhrzeit) in einen reinen Uhrzeit-Helfer. Nützlich, wenn man nur die Zeitkomponente braucht.
 
-[![Import Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/TheRealSimon42/ha-blueprints/blob/main/automations/convert_datetime_helper_to_time_helper.yaml)
+[![Import Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/FlapFlup/ha-blueprints/blob/main/automations/convert_datetime_helper_to_time_helper.yaml)
 
 ## Entwicklung
 
